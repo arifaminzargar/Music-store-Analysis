@@ -1,4 +1,4 @@
-# Music-store-Analysis
+# Music-store-Analysis using SQL
 
 Project Overview:
 This project involves analyzing a music store's data using SQL to derive meaningful 
