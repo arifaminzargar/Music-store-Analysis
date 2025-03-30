@@ -11,30 +11,30 @@ store’s performance, including sales trends, customer loyalty, and geographic 
 This project involved data cleaning, querying multiple tables, and uncovering trends to help improve business decisions. 
 ## 🛠 Methodology Used:
 
-###🔹 JOIN—Combined data from multiple tables for analysis.
-🔹 DISTINCT—Retrieved unique customer details.
-🔹 CTE (Common Table Expressions) – Created temporary result sets for better readability.
-🔹 Aggregation Functions – Used SUM, COUNT, AVG, and MAX for calculations.
-🔹 GROUP BY & ORDER BY – Grouped and sorted data for better insights.
-🔹 WINDOW FUNCTIONS—Assigned row numbers for ranking data.
-🔹 RECURSIVE CTEs – Handled hierarchical relationships within the dataset.
+### 🔹 JOIN—Combined data from multiple tables for analysis.
+### 🔹 DISTINCT—Retrieved unique customer details.
+### 🔹 CTE (Common Table Expressions) – Created temporary result sets for better readability.
+### 🔹 Aggregation Functions – Used SUM, COUNT, AVG, and MAX for calculations.
+### 🔹 GROUP BY & ORDER BY – Grouped and sorted data for better insights.
+### 🔹 WINDOW FUNCTIONS—Assigned row numbers for ranking data.
+### 🔹 RECURSIVE CTEs – Handled hierarchical relationships within the dataset.
 
 ## 🔍 Key Findings
-✅ Customer Insights:
+### ✅ Customer Insights:
 Top Spender: Frantiek Wichterlova emerged as the highest-spending customer.
 Rock Rules! 🎸 A significant 55 customers prefer Rock music, making it the most popular genre.
-✅ Sales & Revenue Analysis:
+### ✅ Sales & Revenue Analysis:
 The USA dominates sales with the highest invoice count (131).
 The highest invoice value recorded was $23.76, followed by $19.80 (twice).
-✅ Music Trends:
+### ✅ Music Trends:
 Best-selling artist: Queen topped the charts in customer spending.
 Most Rock Genre Tracks: Led Zeppelin led the pack with 114 tracks in the dataset.
-✅ Employee Insights:
+### ✅ Employee Insights:
 Senior-most employee: Adams Andrew (L6).
 Recognizing and leveraging experienced employees can enhance business performance.
-🔥 Key Recommendations
-🔹 Personalized Customer Engagement: Loyalty programs for top spenders, targeted promotions for Rock fans.
-🔹 Geographic Strategy: Expand marketing efforts in the USA and explore underperforming regions.
-🔹 Sales Optimization: Analyze top invoice patterns to develop high-value purchase strategies.
+## 🔥 Key Recommendations
+### 🔹 Personalized Customer Engagement: Loyalty programs for top spenders, targeted promotions for Rock fans.
+### 🔹 Geographic Strategy: Expand marketing efforts in the USA and explore underperforming regions.
+### 🔹 Sales Optimization: Analyze top invoice patterns to develop high-value purchase strategies.
 
 
