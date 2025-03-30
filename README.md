@@ -32,6 +32,7 @@ Most Rock Genre Tracks: Led Zeppelin led the pack with 114 tracks in the dataset
 ### ✅ Employee Insights:
 Senior-most employee: Adams Andrew (L6).
 Recognizing and leveraging experienced employees can enhance business performance.
+
 ## 🔥 Key Recommendations
 ### 🔹 Personalized Customer Engagement: Loyalty programs for top spenders, targeted promotions for Rock fans.
 ### 🔹 Geographic Strategy: Expand marketing efforts in the USA and explore underperforming regions.
