@@ -10,13 +10,15 @@ store’s performance, including sales trends, customer loyalty, and geographic 
 
 This project involved data cleaning, querying multiple tables, and uncovering trends to help improve business decisions. 
 🛠 Methodology Used:
+
 🔹 JOIN—Combined data from multiple tables for analysis.
 🔹 DISTINCT—Retrieved unique customer details.
 🔹 CTE (Common Table Expressions) – Created temporary result sets for better readability.
 🔹 Aggregation Functions – Used SUM, COUNT, AVG, and MAX for calculations.
 🔹 GROUP BY & ORDER BY – Grouped and sorted data for better insights.
 🔹 WINDOW FUNCTIONS—Assigned row numbers for ranking data.
- 🔹 RECURSIVE CTEs – Handled hierarchical relationships within the dataset.
+🔹 RECURSIVE CTEs – Handled hierarchical relationships within the dataset.
+
 🔍 Key Findings
 ✅ Customer Insights:
 Top Spender: Frantiek Wichterlova emerged as the highest-spending customer.
