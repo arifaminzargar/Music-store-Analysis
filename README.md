@@ -11,7 +11,7 @@ store’s performance, including sales trends, customer loyalty, and geographic 
 This project involved data cleaning, querying multiple tables, and uncovering trends to help improve business decisions. 
 ## 🛠 Methodology Used:
 
-🔹 JOIN—Combined data from multiple tables for analysis.
+###🔹 JOIN—Combined data from multiple tables for analysis.
 🔹 DISTINCT—Retrieved unique customer details.
 🔹 CTE (Common Table Expressions) – Created temporary result sets for better readability.
 🔹 Aggregation Functions – Used SUM, COUNT, AVG, and MAX for calculations.
