@@ -19,7 +19,7 @@ This project involved data cleaning, querying multiple tables, and uncovering tr
 🔹 WINDOW FUNCTIONS—Assigned row numbers for ranking data.
 🔹 RECURSIVE CTEs – Handled hierarchical relationships within the dataset.
 
-🔍 Key Findings
+## 🔍 Key Findings
 ✅ Customer Insights:
 Top Spender: Frantiek Wichterlova emerged as the highest-spending customer.
 Rock Rules! 🎸 A significant 55 customers prefer Rock music, making it the most popular genre.
